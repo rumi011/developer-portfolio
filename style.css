@@ -1,0 +1,33 @@
+.top-header {
+    background-color: #F67E0D;
+    color: white;
+    border-radius: 3px;
+    display: flex;
+}
+
+.top-header p {
+    width: 33%;
+    margin-left: 20px;
+}
+div {
+    display: flex;
+    width: 100%;
+    
+}
+.headline-text-area {
+    
+    width: 50%;
+    padding-left: 20px;
+}
+
+.headline-img-area {
+    width: 50%;
+    
+}
+
+.headline-color {
+    color: red;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
